@@ -3,7 +3,7 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>TestModule</artifactId>
   <packaging>pom</packaging>
-  <version>2.3.10-SNAPSHOT</version>
+  <version>yes</version>
   <name>TestModule parent </name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -28,7 +28,7 @@
 
    <scm>
 			<connection>scm:git:https://github.com/Nuwan-Walisundara/TestModule.git</connection>
-		  <tag>HEAD</tag>
+		  <tag>v2.3.12</tag>
   </scm>
   <build>
   	<plugins>
