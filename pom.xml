@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
   <artifactId>TestModule</artifactId>
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
   <version>2.3.9-SNAPSHOT</version>
   <name>TestModule</name>
   <url>http://maven.apache.org</url>
