@@ -9,8 +9,7 @@
 	</parent>
 
   <artifactId>submod1</artifactId>
-  <packaging>jar</packaging>
-  <version>2.3.9-SNAPSHOT</version>
+  <packaging>jar</packaging> 
   <name>TestModule</name>
   <url>http://maven.apache.org</url>
   <dependencies>

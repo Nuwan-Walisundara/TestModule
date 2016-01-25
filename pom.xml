@@ -14,6 +14,16 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+
+
+<modules>
+		<module>libset1/submod1</module>
+		<module>libset1/submod2</module>
+	</modules>
+
+
+
    <scm>
 			<connection>scm:git:https://github.com/Nuwan-Walisundara/TestModule.git</connection>
 		  <tag>HEAD</tag>

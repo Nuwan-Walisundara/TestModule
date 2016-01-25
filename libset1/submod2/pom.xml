@@ -10,7 +10,6 @@
 
   <artifactId>submod2</artifactId>
   <packaging>jar</packaging>
-  <version>2.3.9-SNAPSHOT</version>
   <name>TestModule</name>
   <url>http://maven.apache.org</url>
   <dependencies>
