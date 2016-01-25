@@ -10,7 +10,7 @@
 
   <artifactId>submod1</artifactId>
   <packaging>jar</packaging> 
-  <name>TestModule</name>
+  <name>submod1</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>

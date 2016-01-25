@@ -4,7 +4,7 @@
   <artifactId>TestModule</artifactId>
   <packaging>pom</packaging>
   <version>2.3.10-SNAPSHOT</version>
-  <name>TestModule</name>
+  <name>TestModule parent </name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
