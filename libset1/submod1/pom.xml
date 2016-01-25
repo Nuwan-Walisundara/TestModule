@@ -4,12 +4,12 @@
 	<parent>
 		<groupId>com.mycompany.app</groupId>
 		<artifactId>TestModule</artifactId>
-		<version>2.3.14</version>
+		<version>2.3.15-SNAPSHOT</version>
 		<relativePath>../../pom.xml</relativePath>
 	</parent>
 
   <artifactId>submod1</artifactId>
-  <version>2.3.14</version>
+  <version>2.3.15-SNAPSHOT</version>
   <packaging>jar</packaging> 
   <name>submod1</name>
   <url>http://maven.apache.org</url>
