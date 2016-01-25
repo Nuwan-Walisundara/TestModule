@@ -20,6 +20,8 @@
 <modules>
 		<module>libset1/submod1</module>
 		<module>libset1/submod2</module>
+		<module>libset2/submod3</module>
+		<module>libset2/submod4</module>
 	</modules>
 
 
