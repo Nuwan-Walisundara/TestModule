@@ -33,7 +33,7 @@
   </build>
 <distributionManagement>
 <repository>
-<id>nexus</id>
+<id>nexus.nuwan</id>
 <name>Nexus Staging Repo</name>
 <url>http://localhost:8081/nexus/content/repositories/releases/</url>
 
